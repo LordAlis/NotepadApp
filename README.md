@@ -1,5 +1,7 @@
 # Notepad Application - C# OOP
 
+> **Demonstration video is here:** https://www.youtube.com/watch?v=PLACEHOLDER_REPLACE_ME
+
 A Windows Forms text editor built with .NET 8, demonstrating OOP, File I/O, and JSON serialization.
 
 ## Project Structure
